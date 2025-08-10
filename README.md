@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ICTTM**
 
-- 🌱 I’m currently learning **Golang, NestJS**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [dotuanlam.site](dotuanlam.site)
 
