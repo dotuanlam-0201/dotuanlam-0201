@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NestJS**
 
-- 👨‍💻 All of my projects are available at [dotuanlam.site](dotuanlam.site)
+- 👨‍💻 All of my projects are available at [dotuanlam.dev](dotuanlam.dev)
 
-- 📝 I regularly write articles on [dotuanlam.site](dotuanlam.site)
+- 📝 I regularly write articles on [dotuanlam.dev](dotuanlam.dev)
 
 - 💬 Ask me about **ReactJS, Typescript**
 
